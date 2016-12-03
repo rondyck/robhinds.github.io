@@ -12,11 +12,11 @@ primarylinks:
  - title: Blog
    url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/pulpfree
+ #- title: StackOverflow
+ #  url: http://stackoverflow.com/users/258813/rhinds
+ #- title: DZone
+#   url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
    url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
 
